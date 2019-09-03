@@ -1,27 +1,22 @@
-# Project title
+# CTI IPS
 
 ## Description
-This project is currently under construction.
+This repository for algorithmic problem solving with python.
 
 ## Goals
 ### Short term goals
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] To better my overall problem solving skills.
+- [ ] To improve my programming ability utilizing the most efficient algorithms and data structures
+- [ ] Practice, practice, practice!
 
 ### Long term goals
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] To land a sweet internship
+- [ ] Feel more confident about the code I write
+- [ ] Level up my programming skills!
 
 ## How to run/setup
-Instructions on the setup process needed for running locally.
-
-## How to deploy
-How to deploy your own instance live.
-
-## Live deployments
-Where you can find this project in production
+To run any file stored within this project, you'll just need python3 and a knowledge of how
+to run python files.
 
 ## How to contribute
 Fork the current repository and then make the changes that you'd like to said fork. Upon adding features, fixing bugs,
@@ -30,4 +25,4 @@ and I will evaluate them before taking further action. This process may take any
 my schedule, and any other variable factors.
 
 ## Resources
-External resources used and needed for this project to be completed. Always cite your peer developers!
+[CTI IPS course](https://canvas.instructure.com/courses/1578976)
